@@ -359,3 +359,7 @@ class _AboutMeSectionState extends State<AboutMeSection>
 
 int sign = 3;
 String why = '?';
+
+int bad = 15;
+
+List<int> ssj = [sign, bad];
